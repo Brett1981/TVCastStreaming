@@ -1,0 +1,10 @@
+F:\Test\tvCastSming\tvCastSming\bin\Debug\tvCastSming.exe.config
+F:\Test\tvCastSming\tvCastSming\bin\Debug\tvCastSming.exe
+F:\Test\tvCastSming\tvCastSming\bin\Debug\tvCastSming.pdb
+F:\Test\tvCastSming\tvCastSming\obj\Debug\tvCastSming.csprojResolveAssemblyReference.cache
+F:\Test\tvCastSming\tvCastSming\obj\Debug\tvCastSming.Properties.Resources.resources
+F:\Test\tvCastSming\tvCastSming\obj\Debug\tvCastSming.csproj.GenerateResource.Cache
+F:\Test\tvCastSming\tvCastSming\obj\Debug\tvCastSming.exe
+F:\Test\tvCastSming\tvCastSming\obj\Debug\tvCastSming.pdb
+F:\Test\tvCastSming\tvCastSming\obj\Debug\tvCastSming.Form2.resources
+F:\Test\tvCastSming\tvCastSming\obj\Debug\tvCastSming.Form1.resources
